@@ -1,2 +1,1 @@
-./extract_logs 2024-12-01 test_logs.log
 Logs for 2024-12-01 have been successfully extracted to output/output_2024-12-01.txt
